@@ -1,0 +1,2 @@
+rootProject.name = "Android11MigrationTest"
+include ':app'
